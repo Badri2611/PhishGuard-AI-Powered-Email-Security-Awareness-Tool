@@ -19,6 +19,7 @@ PhishGuard is a lightweight cybersecurity tool designed to detect common phishin
 ├── app.py             # Flask Backend API,Streamlit Frontend 
 ├── requirements.txt   # Project dependencies
 └── README.md          # Project documentation
+```
 
 ## 🌐 Live Deployment
 The app is live and can be accessed at: **phishguard-beta.streamlit.app**
